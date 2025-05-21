@@ -1,0 +1,103 @@
+- Git [done]
+- Linux [done]
+- IDE  
+	- intellij [done]
+	- Eclispe [done]
+	- VSCode [done]
+- Core
+	- OOP [done]
+	- Arrays [done]
+	- Classes [done]
+	- Packages [done]
+	- variables [done]
+	- strings [done]
+	- Loops [done]
+	- interfaces [done]
+	- inheritance [done]
+	- files [done]
+	- I/O streams [done]
+- Collections
+	 - Arrays [done]
+	 - utils [done]
+	 - Maps [done]
+	 - Stacks [done]
+	 - queues [done]
+ - Advanced
+	 - optionals [not yet]
+	 - Dependency injection [not yet]
+	 - Design pattern [knowledge done need practice]
+	 - I / O [done]
+	 - how JVM works [not bad]
+	 - Multi Threading [not bad]
+	 - Generics [not bad]
+- Exception handling 
+	 - checked exceptions [done]
+	 - unchecked exceptions [done]
+ - Stream and Functional programming [done]
+ - Testing 
+	 - Unit Testing
+		 - Mocking [not yet]
+		 - Assertion Libraries [not yet]
+	 - integration Testing [not yet]
+	 - Debugging skills [not yet]
+	 - Contract Testing [not yet]
+- Databases
+	 - relational db
+		 - Database Design [done]
+		 - queries[done]
+		 - indexes [not bad]
+		 - joins [done]
+		 - Functions [done]
+		 - Schema Migration Tool
+			 - flyway [not yet]
+			 - Liquibase [not yet]
+		 - JDBC [done]
+	 - NoSQL [not yet]
+- Clean code
+	- solid principles [not yet]
+	- N Tier Architecture [not yet]
+	- immutability [not yet]
+- Logging [not yet]
+- Multi Threading [not bad]
+- build Tools
+	- Maven [not yet]
+	- Gradle [not yet]
+	- Bazel [not yet]
+- Http 
+	- Rest [not yet]
+	- Api [not yet]
+	- Graph Sql [not yet]
+	- How http works [not yet]
+	- API Design [not yet]
+- Frameworks
+	- spring Boot [not yet]
+	- Play [not interested]
+	- Quarkus [not interested]
+
+
+----------
+**PART 1:**
+
+- core Java [done]
+- web concepts: HTTP protocol and basics of HTML, JavaScript, CSS [running]
+- Maven
+- MVC Pattern, Servlets, Thymeleaf/JSP
+- MySQL/Postgres
+- JDBC
+- **Write 1st app** (Servlets + JDBC + MySql/Postgres + JSP/Thymleaf)
+
+**PART 2:**
+
+- JPA, ORM, Hibernate
+- Spring
+- **Write 2nd app** (Spring Boot + Hibernate/Spring Data + MySQL/Postgres + Thymeleaf/JSP)
+
+**PART 3:**
+
+- Design Patterns and Data Structures
+- Theory of tests, JUnit, Mockito
+- Messaging systems, topics, queues, JMS, ActiveMQ/RabbitMQ
+- Websockets, STOMP
+- REST API concepts
+- Consuming external APIs
+- **Write 3rd app** (REST API + all learned technologies)

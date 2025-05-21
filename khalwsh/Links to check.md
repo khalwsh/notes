@@ -1,0 +1,11 @@
+
+- useful OOP , OOD , Design pattern , DB Design , ...[https://www.linkedin.com/posts/shivamsahay1_lld-objectorienteddesign-designpatterns-activity-7275801431540908036-8_rh?utm_source=share&utm_medium=member_desktop]
+- computer Science materials [ https://docs.google.com/document/d/1BAgkVnErTXe5omcz-RprGU6hX4x_gZDMXd9UbS5k5Zg/edit?tab=t.0]
+- road map: https://x.com/kamrify/status/1821284530881515983?t=tuPq9we9qLSwdknnuAK_wA&s=08
+- road map: https://youtu.be/1piAu0IfJdA?si=OkxmIDP4HYL3h4vD
+- roadmap.sh: https://roadmap.sh/backend
+- roadmap: https://metwallylabs.com/backendroadmap.html
+- Java Fx: https://youtube.com/playlist?list=PLZPZq0r_RZOM-8vJA3NQFZB7JroDcMwev&si=SAO3kccvUNXRGR_G , https://youtube.com/playlist?list=PLMYF6NkLrdN-IphjimBV9AB6SxcL85aqW&si=7MwmE4noyId3wGWq
+- interviews question: https://drive.google.com/drive/folders/19rEukbTa-W1DlEMrd7Rz3sI1fwuiLBL6
+- Hibernate : https://youtube.com/playlist?list=PLGTrAf5-F1YLNgq_0TXd9Xu245dJxqJMr&si=2jUWiFzHFRfdz_dA , https://youtube.com/playlist?list=PLEocw3gLFc8UYNv0uRG399GSggi8icTL6&si=oP4BMhx56C2Dt8BD
+- Spring : https://www.linkedin.com/posts/karim-khalaf-99b985a4_javaroadmapegypt-javaroadmapegypt-javadevelopers-activity-**6957016997 , https://www.linkedin.com/posts/karim-khalaf-99b985a4_javaroadmapegypt-java-activity-6957052338121367552-7aTu/?utm_source=share&utm_medium=member_android , https://www.linkedin.com/posts/karim-khalaf-99b985a4_javaroadmapegypt-java-activity-6957652751854014464-48W6/?utm_source=share&utm_medium=member_android , https://www.linkedin.com/posts/karim-khalaf-99b985a4_javaroadmapegypt-java-activity-6959486368083279872-nxzf/?utm_source=share&utm_medium=member_android , https://x.com/mohammed_eid35/status/1869759081474564130?t=ZydjD7B6MiZIBX78YVFUKg&s=35 , https://www.udemy.com/course/spring-boot-using-intellij-build-a-real-world-project/?couponCode=DEC_24_DEAL

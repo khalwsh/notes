@@ -1,0 +1,6 @@
+- https://codeforces.com/gym/105811/problem/F
+- https://codeforces.com/contest/2103/problem/D
+- https://vjudge.net/contest/710563#problem/A
+- https://vjudge.net/contest/710563#problem/C
+- https://vjudge.net/contest/710563#problem/E
+- [Dashboard - The Semicolon Show 3 Contest - Codeforces](https://codeforces.com/group/qzYVNi8yRA/contest/604841)
