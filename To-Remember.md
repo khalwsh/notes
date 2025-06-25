@@ -1,3 +1,0 @@
-- next mother birthday I want to get her
-	- خاتم دهب فيه فص فيروز
-	- خاتم دهب فيه فص عقيق

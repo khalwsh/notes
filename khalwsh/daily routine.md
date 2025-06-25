@@ -1,11 +1,15 @@
 Always
 - woke up pray then read your thing then solve daily problem with java on LeetCode
-- do 1 and half hour problems for EL ZOZ , work on Acade
-- virtual EDU round then upsolve till E
-- upsolve from your upsolve list
-- 4 * 15 mins ---> 1700 rated problems (4 problems each 15 mins) [Codeforces Randomizer](https://karimelghamry.github.io/Codeforces-Randomizer/)
-- study topics from (need to remember or new topics)
-- work on Acade Studio
+- java : [Java Overview](https://www.tutorialspoint.com/java/java_overview.htm) Half hour or one hour (next section : OOP , instance initializer block)
+- The Object Oriented Thought Process 3rd Edition (page 53 , how to think in terms of objects)
+- upsolve contests
+- do Monir contests
+- study topic from to do and solve on it (you must finish easy , mid , and try in hard)
+- go Tech course you study from 
+
+Tech Plan:
+- finish JSP , Servlets course , do project + FAWRY materials 
+
 subset per day
 - start to study tech 
 	- Database
@@ -20,8 +24,9 @@ subset per day
 		- [Java Servlets & JSP [3] - Making Servlets](https://www.youtube.com/watch?v=UiBtz7rZ6Ec&list=PLfu_Bpi_zcDOn8ajnuLY6g1C6hc_eeDFl&index=2)
 
 No routine
-- fix your cv (make it one page)
 - review java
 - review HTML and CSS
 - review database SQL and internals
+- one day in The week (Thursday) solve event , solving for some x hours problems from CSES or random from ultimate topic list 
 os : [UC Berkeley CS61C Fall 2020 - YouTube](https://www.youtube.com/playlist?list=PLHT49ZYxKjt1jBRl1qXI591cWqUolpnxb)
+solve : [codeforces.com/edu/course/2/lesson/7](https://codeforces.com/edu/course/2/lesson/7)

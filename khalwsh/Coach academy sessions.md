@@ -1,2 +1,0 @@
-- Tuesday 9pm
-- Saturday 9pm
